@@ -1,4 +1,4 @@
-# :blue_heart::purple_heart::red_heart::green_heart:RGB-Color-Game
+# :blue_heart::purple_heart::heart::green_heart:RGB-Color-Game
 
 ## Introduction
 A random RGB value appears on the screen. Choose between easy (3 colors)
